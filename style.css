@@ -1,0 +1,252 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    margin:0;
+}
+#shawn img {
+    border-radius: 190%
+}
+#shawn {
+    background-color: darkseagreen;
+}
+
+#shawn h1 {
+    color: brown;
+    text-align: center;
+}
+
+#shawn p {
+    color: brown;
+    text-align: center;
+}
+
+#shawn {
+    text-align:center;
+    color: brown;
+}
+#shawn:hover {
+    background-color: aquamarine;
+}
+#selena img {
+    border-radius:50%;
+}
+
+#selena h1 {
+    color: red;
+    text-align:center;
+}
+
+#selena {
+    background-color: pink;
+}
+#selena p {
+    color: red;
+    text-align:center;
+}
+#selena {
+    color: red;
+    text-align:center;
+}
+#selena:hover {
+    background-color: black;
+}
+#drake {
+    background-color: maroon;
+}
+
+#drake h1 {
+    color:white;
+    text-align:center;
+}
+#drake p {
+    color: white;
+    text-align:center;
+}
+#drake {
+    color: white;
+    text-align:center;
+}
+#drake:hover {
+    background-color: steelblue;
+}
+#drake img {
+    border-radius:50%;
+}
+#beyonce img {
+    border-radius:60%;
+}
+#beyonce {
+    background: black;
+}
+#beyonce p {
+    color:green;
+    text-align:center;
+}
+#beyonce h1 {
+    color:green;
+    text-align:center;
+}
+#beyonce {
+    color: green;
+    text-align:center;
+}
+#beyonce:hover {
+    background-color: white;
+}
+#taylor img {
+    border-radius:90%;
+}
+#taylor {
+    background-color: powderblue;
+}
+#taylor p {
+    color: black;
+    text-align:center;
+}
+#taylor h1 {
+    color: black;
+    text-align:center;
+}
+#taylor {
+    color: black;
+    text-align:center;
+}
+#taylor:hover {
+    background-color: plum;
+}
+#kanye {
+    background-color: grey;
+}
+#kanye p {
+    color: orange;
+    text-align:center;
+}
+#kanye h1 {
+    color: orange;
+    text-align:center;
+}
+#kanye {
+    color: orange;
+    text-align:center;
+}
+#kanye img {
+    border-radius:50%;
+}
+#kanye:hover {
+    background-color: darkslateblue;
+}
+#ariana {
+    background-color: coral;
+}
+#ariana p {
+    color: black;
+    text-align:center;
+}
+#ariana h1 {
+    color: black;
+    text-align:center;
+}
+#ariana {
+    color:black;
+    text-align:center;
+}
+#ariana:hover {
+    background-color: thistle;
+}
+#ariana img {
+    border-radius:100%;
+}
+#rihanna {
+    background-color: white;
+}
+#rihanna p {
+    color: purple;
+    text-align:center;
+}
+#rihanna h1 {
+    color: purple;
+    text-align:center;
+}
+#rihanna {
+    color: purple;
+    text-align:center;
+}
+#rihanna:hover {
+    background-color: yellow;
+}
+#rihanna img {
+    border-radius:90%;
+}
+#justin {
+    background-color: navy;
+}
+#justin p {
+    color: yellow;
+    text-align:center;
+}
+#justin h1 {
+    color: yellow;
+    text-align:center;
+}
+#justin {
+    color: yellow;
+    text-align:center;
+}
+#justin:hover {
+    background-color: orangered;
+}
+#justin img {
+    border-radius:50%;
+}
+#bruno {
+    background-color: teal;
+}
+#bruno p {
+    color: pink;
+    text-align:center;
+}
+#bruno h1 {
+    color: pink;
+    text-align:center;
+}
+#bruno {
+    color: pink;
+    text-align:center;
+}
+#bruno:hover {
+    background-color: grey;
+}
+#bruno img {
+    border-radius:90%;
+}
+
+#title {
+    background-color: mediumpurple;
+    text-align: center;
+    font-size:50px;
+    color: #FFF;
+   font-family: 'Delius Swash Caps', cursive;
+}
+
+nav {
+    background-color: mediumpurple;
+    padding: 20px;
+}
+
+nav a {
+    margin: 20px;
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 17px;
+}
+
+
