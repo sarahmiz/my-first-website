@@ -20,6 +20,7 @@ h1 {
 #shawn h1 {
     color: brown;
     text-align: center;
+   font-family: 'Cabin Sketch', cursive;
 }
 
 #shawn p {
@@ -41,6 +42,7 @@ h1 {
 #selena h1 {
     color: red;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 
 #selena {
@@ -64,6 +66,7 @@ h1 {
 #drake h1 {
     color:white;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 #drake p {
     color: white;
@@ -92,6 +95,7 @@ h1 {
 #beyonce h1 {
     color:green;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 #beyonce {
     color: green;
@@ -113,6 +117,7 @@ h1 {
 #taylor h1 {
     color: black;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 #taylor {
     color: black;
@@ -131,6 +136,7 @@ h1 {
 #kanye h1 {
     color: orange;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 #kanye {
     color: orange;
@@ -152,6 +158,7 @@ h1 {
 #ariana h1 {
     color: black;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 #ariana {
     color:black;
@@ -173,6 +180,7 @@ h1 {
 #rihanna h1 {
     color: purple;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 #rihanna {
     color: purple;
@@ -194,6 +202,7 @@ h1 {
 #justin h1 {
     color: yellow;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 #justin {
     color: yellow;
@@ -215,6 +224,7 @@ h1 {
 #bruno h1 {
     color: pink;
     text-align:center;
+    font-family: 'Cabin Sketch', cursive;
 }
 #bruno {
     color: pink;
@@ -234,7 +244,9 @@ h1 {
     color: #FFF;
    font-family: 'Delius Swash Caps', cursive;
 }
-
+#title:hover {
+    background-color:rosybrown;
+}
 nav {
     background-color: mediumpurple;
     padding: 20px;
@@ -248,5 +260,7 @@ nav a {
     font-family: 'Raleway';
     font-size: 17px;
 }
-
+nav:hover {
+    background-color:rosybrown;
+}
 
